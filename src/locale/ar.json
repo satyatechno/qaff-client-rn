@@ -1,0 +1,404 @@
+{
+  "translation": {
+    "intro":{
+      "skip":  "تخطى",
+      "next": "التالى",
+      "header1": "مرحبا بكم في Qaff",
+      "header2": "اكتب متطلباتك",
+      "header3": "عالم المواهب في متناول يديك",
+      "header4": "ابق على اطلاع",
+      "header5": "ادفع عندما تكون جاهزًا",
+      "desc1": "أكبر سوق لخدمات العمل الحر في دول مجلس التعاون الخليجي",
+      "desc2": "من تصميم موقع الويب الذي تحلم به إلى تجميع القمر الصناعي ، قم بنشر وظيفة لتحقيق ذلك",
+      "desc3": "اختر من بين ملايين العاملين لحسابهم الخاص في كل مجال وقم بتوظيفهم بثقة",
+      "desc4": "تواصل مع المستقل الخاص بك واحصل على تحديثات منتظمة عن عملك",
+      "desc5": "قم بتحرير الأموال إلى المستقل الخاص بك من خلال نظام الدفع الآمن الخاص بنا عندما يقدم العمل الذي يرضيك"
+    },
+    "welcome": {
+      "welcome":"أهلا بك",
+      "signup": "سجل",
+      "or":"أو",
+      "login":"تسجيل الدخول"
+    },
+    "login": {
+      "loginText":"تسجيل الدخول",
+      "emailAddress":"عنوان البريد الالكترونى",
+      "password":"كلمه السر",
+      "forgotPassword":"هل نسيت كلمة المرور",
+      "loginButtonText":"تسجيل الدخول",
+      "orViaSocialNetworks": "أو عبر الشبكات الاجتماعية",
+      "dontHaveAnAccount":"ليس لديك حساب",
+      "signup": "سجل",
+      "passwordNote":"ملاحظة: يجب أن تتكون كلمة المرور من 8 أحرف على الأقل"
+    },
+    "signup":{
+      "joinToQaff":"انضم إلى قاف",
+      "signUpWithEmail": "سجل عن طريق البريد الإلكتروني",
+      "orViaSocialAccounts": "أو عبر الحسابات الاجتماعية",
+      "bySigningUp": "بالتسجيل في Qaff ، فإنك توافق على",
+      "termsConditions": "بنود الخدمة وخصوصية السياسة"
+    },
+    "createAccount":{
+      "createAccount":"إنشاء حساب",
+      "firstName":"الاسم الاول",
+      "lastName":"الكنية",
+      "gender":"الجنس (اختياري)",
+      "email":"البريد الإلكتروني",
+      "next":"التالى",
+      "alreadyHaveAnAccount": "هل لديك حساب",
+      "signin": "تسجيل الدخول",
+      "accountCreateSuccess":"تم إنشاء الحساب بنجاح",
+      "verificationRequire":"تم العثور على الحساب والتحقق مطلوب"
+    },
+    "emailVerification":{
+      "createAccount":"إنشاء حساب",
+      "enterTheOpt":"أدخل OTP المرسل على بريدك الإلكتروني",
+      "resendOtp":"إعادة إرسال OTP",
+      "verify":"تحقق",
+      "otpRequire":"مطلوب OTP"
+    },
+    "createPassword":{
+      "createAccount":"إنشاء حساب",
+      "createPassword":"أنشئ كلمة مرور",
+      "confirmPassword":"تأكيد كلمة المرور",
+      "createAccountButton":"إنشاء حساب",
+      "passwordNote":"ملاحظة: يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+      "passwordError":"كلمة المرور غير متطابقة"
+    },
+    "recoverPassword":{
+      "recoverPassword" :"إستعادة كلمة المرور",
+      "enterAnEmail":"أدخل بريدًا إلكترونيًا لإرسال تذكير بكلمة المرور إليك",
+      "send":"إرسال",
+      "dontHaveAnAccount":"ليس لديك حساب",
+      "signup": "سجل"
+    },
+    "otpVerification":{
+      "recoverPassword" :"إستعادة كلمة المرور",
+      "enterTheOpt":"أدخل OTP المرسل على بريدك الإلكتروني",
+      "resendOtp":"إعادة إرسال OTP",
+      "verify":"تحقق",
+      "otpRequire":"مطلوب OTP"
+    },
+    "createNewPassword":{
+      "recoverPassword" :"إستعادة كلمة المرور",
+      "createPassword":"أنشئ كلمة مرور",
+      "confirmPassword":"تأكيد كلمة المرور",
+      "change":"يتغيرون",
+      "passwordNote":"ملاحظة: يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+      "passwordError":"كلمة المرور غير متطابقة"
+    },
+    "socialSignup":{
+      "createAccount":"إنشاء حساب",
+      "firstName":"الاسم الاول",
+      "lastName":"الكنية",
+      "gender":"الجنس (اختياري)",
+      "email":"البريد الإلكتروني",
+      "createAccountButton":"إنشاء حساب",
+      "alreadyHaveAnAccount": "هل لديك حساب",
+      "signin": "تسجيل الدخول"
+    },
+    "createProfile":{
+      "createProfile":"إنشاء ملف تعريف",
+      "firstName":"الاسم الاول",
+      "lastName":"الكنية",
+      "gender":"الجنس (اختياري)",
+      "email":"البريد الإلكتروني",
+      "createProfileButton":"إنشاء ملف تعريف",
+      "alreadyHaveAnAccount": "هل لديك حساب",
+      "signin": "تسجيل الدخول"
+    },
+    "home":{
+      "newsfeed":"Newsfeed",
+      "home":"الصفحة الرئيسية",
+      "noNewsfeed":"م يتم العثور على ملف الأخبار",
+      "save":"حفظ",
+      "saved":"تم الحفظ",
+      "like":"مثل",
+      "liked":"احب"
+    },
+    "description":{
+      "description":"وصف",
+      "posted":"نشر"
+    },
+    "jobs":{
+      "projects":"المشاريع",
+       "workInProgress":"أعمال جارية",
+       "pastProjects":"المشاريع السابقة",
+       "options":"خيارات",
+       "viewProposals":"عرض المقترحات",
+       "viewJobPosting":"عرض الوظيفة الشاغرة",
+       "removePosting":"إزالة النشر",
+       "editPosting":"تحرير النشر",
+       "cancel":"إلغاء",
+       "delete":"حذف",
+       "proposals":"اقتراحات",
+       "messages":"الرسائل",
+       "hired":"استأجرت",
+       "posted":"تم النشر",
+       "budget":"ميزانية",
+       "nojobs":"ليس لديك أي وظائف في الوقت الحالي",
+       "postProjectNow":"انشر المشروع الآن"
+    },
+    "freelancerCard":{
+      "jobSuccess":"النجاح الوظيفي",
+      "topRated":"أعلى التقييمات",
+      "message":"رسالة",
+      "inviteToJob":"دعوة للعمل",
+      "toContact":"للاتصال"
+    },
+    "search":{
+      "browse":"تصفح",
+      "categories":"التصنيفات",
+      "freelancer":"مستقل",
+      "noFreelancer":"لا يوجد مترجمون مستقلون في الوقت الحالي",
+      "noMatchFound":"لا يوجد تطابق",
+      "noCategories":"لا توجد فئات في الوقت الحالي"
+    },
+    "categories":{
+      "projects":"المشاريع",
+      "freelancer":"مستقل",
+      "browse":"تصفح",
+      "noFreelancer":"لم يتم العثور على مترجمين مستقلين في هذه الفئة",
+      "noMatchFound":"لا يوجد تطابق",
+      "noProject":"لا توجد وظائف في هذه الفئة"
+    },
+    "viewProfile":{
+      "viewProfile":"عرض الصفحة الشخصية",
+      "about":"حول",
+      "reviews":"المراجعات",
+      "portfolio":"محفظة",
+      "skills":"مهارات",
+      "exams":"الامتحانات",
+      "invite":"يدعو",
+      "toJob":"إلى وظيفة",
+      "seeAll":"اظهار الكل"
+    },
+    "portfolio":{
+      "portfolio":"محفظة"
+    },
+    "proposals":{
+      "proposals":"اقتراحات",
+      "noProposals":"لا توجد مقترحات",
+      "jobSuccess":"النجاح الوظيفي",
+      "topRated":"أعلى التقييمات",
+      "message":"رسالة",
+      "award":"جائزة"
+    },
+    "proposalDetails":{
+      "proposalDetails":"تفاصيل العرض",
+      "noData":"لاتوجد بيانات",
+      "timeline":"الجدول الزمني",
+      "price":"السعر",
+      "milestonePayments":"المدفوعات الهامة",
+      "noAttachment":"لم يتم العثور على مرفق" ,
+      "attachment":"المرفق" ,
+      "freelancer":"مستقل"
+    },
+    "terms":{
+      "terms":"شروط",
+      "paymentOption":"خيار الدفع",
+      "payAsText":"تم الانتهاء من الدفع حسب معالم المشروع",
+      "fixedPriceText":"ادفع سعر ثابت لمشروعك",
+      "thisIsThePriceText":"هذا هو السعر الذي اتفقت عليه أنت والعميل",
+      "milestones":"معالم",
+      "description":"وصف",
+      "dueDate":"تاريخ الاستحقاق",
+      "selectDate":"حدد تاريخ",
+      "amount":"كمية",
+      "workDescription":"وصف العمل",
+      "contractTitle":"عنوان العقد",
+      "workDetails":"تفاصيل العمل",
+      "addAttachment":"إضافة مرفق",
+      "optional":"(اختياري)",
+      "hire":"توظيف",
+      "takePhoto":"تصوير",
+      "fromGallery":"من المعرض",
+      "otherFile":"ملف آخر",
+      "cancel":"إلغاء",
+      "terms1":"نعم ، أفهم وأوافق على",
+      "terms2":"شروط خدمة Qaff",
+      "terms3":" بما في ذلك",
+      "terms4":"اتفاقية المستخدم",
+      "terms5":"و",
+      "terms6":"سياسة الخصوصية",
+      "intro1":"أنت محمي",
+      "intro2":"حماية الدفع Qaff",
+      "intro3":" ادفع فقط مقابل العمل الذي تأذن به",
+      "addAttachmentOption":"إضافة مرفق"
+    },
+    "payment":{
+      "payment":"دفع",
+      "choosePaymentMethod":"اختر وسيلة الدفع",
+      "accept":"قبول"
+    },
+    "sentOffer":{
+      "sent":"أرسلت",
+      "offerSentTo":"العرض المرسل إلى",
+      "weNotifyText":" سنخطرك عندما",
+      "respondText":"يستجيب لعرضك"
+    },
+    "projectAdd":{
+      "postAProject":"انشر مشروعًا",
+      "jobTitleQue":"ماذا تريد ان تفعل؟",
+      "jobTitle":"(المسمى الوظيفي)",
+      "describeHere":"صف هنا",
+      "selectJobCategory":"حدد فئة الوظيفة",
+      "jobSubcategory":"فئة الوظيفة الفرعية",
+      "budget":"ميزانية",
+      "timeline":"الجدول الزمني",
+      "milestonePayments":"المدفوعات الهامة",
+      "description":"صف ما عليك القيام به في بضع جمل",
+      "maxLimit":"(الحد الأقصى: 300)",
+      "describeHereDescription":"صِف هنا ...",
+      "addAttachment":"إضافة مرفق",
+      "optional":"(اختياري)",
+      "takePhoto":"تصوير",
+      "fromGallery":"من المعرض",
+      "otherFile":"ملف آخر",
+      "cancel":"إلغاء",
+      "postAProjectButton":"انشر مشروعًا",
+      "addAttachmentOption":"إضافة مرفق"
+    },
+    "jobType":{
+      "postAProject":"انشر مشروعًا",
+      "selectJobCategory":"حدد فئة الوظيفة",
+      "next":"التالى"
+    },
+    "jobTitle":{
+      "postAProject":"انشر مشروعًا",
+      "selectJobCategory":"حدد فئة الوظيفة"
+    },
+    "budget":{
+      "postAProject":"انشر مشروعًا",
+      "whatBudgetQue":"ما الميزانية التي تفكر فيها؟",
+      "next":"التالى"
+    },
+    "timeline":{
+      "postAProject":"انشر مشروعًا",
+      "timeline":"الجدول الزمني",
+       "next":"التالى"
+    },
+    "milestonePayments":{
+      "postAProject":"انشر مشروعًا",
+      "milestonePayments":"المدفوعات الهامة",
+       "next":"التالى"
+    },
+    "projectEdit":{
+      "editProject":"تحرير المشروع",
+      "jobTitleQue":"ماذا تريد ان تفعل؟",
+      "jobTitle":"(المسمى الوظيفي)",
+      "describeHere":"صف هنا",
+      "selectJobCategory":"حدد فئة الوظيفة",
+      "jobSubcategory":"فئة الوظيفة الفرعية",
+      "budget":"ميزانية",
+      "timeline":"الجدول الزمني",
+      "milestonePayments":"المدفوعات الهامة",
+      "description":"صف ما عليك القيام به في بضع جمل",
+      "maxLimit":"(الحد الأقصى: 300)",
+      "describeHereDescription":"صِف هنا ...",
+      "addAttachment":"إضافة مرفق",
+      "optional":"(اختياري)",
+      "takePhoto":"تصوير",
+      "fromGallery":"من المعرض",
+      "otherFile":"ملف آخر",
+      "cancel":"إلغاء",
+      "editProjectButton":"تحرير المشروع",
+      "addAttachmentOption":"إضافة مرفق"
+    },
+    "projectDetails":{
+      "projectDetails":"تفاصيل المشروع",
+      "category":"الفئة",
+      "subCategory":"تصنيف فرعي",
+      "timeline":"الجدول الزمني",
+      "milestonePayments":"المدفوعات الهامة",
+      "projectId":"معرف المشروع",
+      "attachment":"المرفق",
+      "noAttachment":"لم يتم العثور على مرفق"
+    },
+    "profile":{
+      "myProfile":"ملفي",
+      "myQaff":"قاف بلدي",
+      "personalProfile":"الملف الشخصي",
+      "saved":"تم الحفظ",
+      "myInterests":"اهتماماتي",
+      "chatToCustomerService":"تحدث إلى خدمة العملاء",
+      "takeThePoll":"خذ الاستطلاع",
+      "projects":"المشاريع",
+      "manageProjects":"إدارة المشاريع",
+      "fileADispute":"رفع النزاع",
+      "myDispute":"نزاعى",
+      "general":"جنرال لواء",
+      "onlineStatus":"الموجودين",
+      "payments":"المدفوعات",
+      "becomeAFreelancer":"كن مستقلاً",
+      "inviteFriends":"ادعو أصدقاء",
+      "settings":"إعدادات",
+      "logout":"Logout"
+    },
+    "personalProfile":{
+      "editProfile":"تعديل الملف الشخصي",
+      "general":"جنرال لواء",
+      "firstName":"الاسم الاول",
+      "lastName":"الكنية",
+      "contacts":"جهات الاتصال",
+      "email":"البريد الإلكتروني",
+      "other":"آخر",
+      "gender":"جنس",
+      "location":"موقعك",
+      "birthday":"عيد الميلاد",
+      "edit":"تعديل",
+      "save":"حفظ",
+      "chooseOption":"إختر خيارا",
+      "takePhoto":"تصوير",
+      "fromGallery":"من المعرض",
+      "cancel":"إلغاء"
+    },
+    "editProfile":{
+      "editProfile":"تعديل الملف الشخصي",
+      "firstName":"الاسم الاول",
+      "lastName":"الكنية",
+      "selectBirthday":"اختر تاريخ الميلاد",
+      "next":"التالى",
+      "enter":"أدخل"
+    },
+    "saved":{
+      "saved":"تم الحفظ",
+      "noData":"ليس لديك أي مشاريع محفوظة في الوقت الحالي"
+    },
+    "myInterests":{
+      "myInterests":"اهتماماتي",
+      "noData":"ليس لديك أي مشاريع نالت إعجابك في الوقت الحالي"
+    },
+    "polls":{
+      "polls":"استطلاعات الرأي",
+      "skip":"تخطى",
+      "submitQuestion":"إرسال سؤال",
+      "noData":"لا توجد بيانات استطلاعات الرأي",
+      "thankYou":"شكرا لك على الإجابات!"
+    },
+    "fileDispute":{
+      "myContracts":"العقود الخاصة بي",
+      "noData":"لاتوجد بيانات",
+      "dispute":"خلاف",
+      "enterDisputeAmount":"أدخل مبلغ النزاع",
+      "describeAbout":"صف حول مشكلتك",
+      "describeHere":"صِف هنا ...",
+      "fileADispute":"رفع النزاع"
+    },
+    "myDispute":{
+      "myDispute":"نزاعى",
+      "noData":"لاتوجد بيانات"
+    },
+    "header":{
+      "search":"بحث"
+    },
+    "notification":{
+      "notification":"تنبيه",
+      "earlier":"سابقا",
+      "latest":"الأخيرة",
+      "noData":"ليس لديك إخطارات في",
+      "moment":"لحظة"
+    }
+
+  }
+}

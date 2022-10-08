@@ -1,0 +1,787 @@
+{
+  "translation": {
+    "intro": {
+      "skip": "Skip",
+      "next": "Next",
+      "header1": "Welcome To Qaff",
+      "header2": "Write your requirements",
+      "header3": "Talent world at your finger tips",
+      "header4": "Stay up to date",
+      "header5": "Pay when you are ready",
+      "desc1": "GCC’s largest marketplace for freelancing services",
+      "desc2": "From getting your dream website designed to a satellite assembled, post a job to make it happen",
+      "desc3": "Choose from millions of freelancers in every domain and hire them with confidence.",
+      "desc4": "Communicate with your freelancer and get regular updates on your work.",
+      "desc5": "Release funds to your freelancer through our secure payment system when they deliver work to your satisfaction."
+    },
+    "welcome": {
+      "welcome": "Welcome",
+      "signup": "Sign Up",
+      "or": "or",
+      "login": "Log In"
+    },
+    "login": {
+      "loginText": "Log In",
+      "emailAddress": "Email Address",
+      "password": "Password",
+      "forgotPassword": "Forgot Password",
+      "loginButtonText": "Log In",
+      "orViaSocialNetworks": "or via social networks",
+      "dontHaveAnAccount": "Don't have an account?",
+      "signup": "Sign Up",
+      "emailRequired": "Email is required!",
+      "pleaseEnterVailidEmail": "Please enter a valid email",
+      "passwordRequired": "Password is required!",
+      "passwordinvailid": "Password must be minimum 8 characters"
+    },
+    "signup": {
+      "joinToQaff": "Join to Qaff",
+      "signUpWithEmail": "Sign Up with e-mail",
+      "orViaSocialAccounts": "or via social accounts",
+      "bySigningUp": " By signing up to Qaff you agree to our",
+      "termsConditions": "Terms of Service and Privacy Policy"
+    },
+    "createAccount": {
+      "createAccount": "Create Account",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "gender": "Gender (Optional)",
+      "email": "E-mail",
+      "next": "Next",
+      "alreadyHaveAnAccount": "Already have an account?",
+      "signin": "Sign In",
+      "accountCreateSuccess": "Account created successfuliy.",
+      "verificationRequire": "Account found and verification required",
+      "country": "Country",
+      "selectCountry": "Select a country",
+      "city": "City",
+      "selectCity": "Select a city",
+      "emailRequired": "Email is required!",
+      "pleaseEnterVailidEmail": "Please enter a valid email",
+      "required": "Required!",
+      "pleaseSelectCountry": "Please select a country",
+      "pleaseSelectCity": "Please select a city"
+    },
+    "emailVerification": {
+      "createAccount": "Create Account",
+      "enterTheOpt": "Enter the OTP sent on your e-mail",
+      "resendOtp": "Resend OTP",
+      "verify": "Verify",
+      "otpRequire": "OTP is required"
+    },
+    "createPassword": {
+      "createAccount": "Create Account",
+      "createPassword": "Create Password",
+      "confirmPassword": "Confirm Password",
+      "createAccountButton": "Create Account",
+      "passwordNote": "Note: Password must be at least 8 characters",
+      "passwordError": "Password didn't match.",
+      "passwordRequired": "The password field is required",
+      "passUperLower": "Your password must contain at least one uppercase and lowercase letter",
+      "passSpecial": "Your password must contain at least one special characters",
+      "passNumber": "Your password must contain at least one number",
+      "passwordinvailid": "Password must be minimum 8 characters"
+    },
+    "recoverPassword": {
+      "recoverPassword": "Recover Password",
+      "enterAnEmail": "Enter an email to send you the password reminder.",
+      "send": "Send",
+      "dontHaveAnAccount": "Don't have an account?",
+      "signup": "Sign Up",
+      "emailRequired": "Email is required!",
+      "pleaseEnterVailidEmail": "Please enter a valid email"
+    },
+    "otpVerification": {
+      "recoverPassword": "Recover Password",
+      "enterTheOpt": "Enter the OTP sent on your e-mail",
+      "resendOtp": "Resend OTP",
+      "verify": "Verify",
+      "otpRequire": "OTP is required"
+    },
+    "createNewPassword": {
+      "recoverPassword": "Recover Password",
+      "createPassword": "Create Password",
+      "confirmPassword": "Confirm Password",
+      "change": "Change",
+      "passwordNote": "Note: Password must be at least 8 characters",
+      "passwordError": "Password didn't match.",
+      "passwordRequired": "The password field is required",
+      "passUperLower": "Your password must contain at least one uppercase and lowercase letter",
+      "passSpecial": "Your password must contain at least one special characters",
+      "passNumber": "Your password must contain at least one number",
+      "passwordinvailid": "Password must be minimum 8 characters",
+      "timeOut": "Time Out!"
+    },
+    "socialSignup": {
+      "createAccount": "Create Account",
+      "firstName": "First Name",
+      "lastName": "last Name",
+      "gender": "Gender (Optional)",
+      "email": "E-mail",
+      "createAccountButton": "Create Account",
+      "alreadyHaveAnAccount": "Already have an account?",
+      "signin": "Sign In",
+      "country": "Country",
+      "selectCountry": "Select a country",
+      "city": "City",
+      "selectCity": "Select a city",
+      "pleaseSelectCountry": "Please select a country",
+      "pleaseSelectCity": "Please select a city"
+    },
+    "createProfile": {
+      "createProfile": "Create Profile",
+      "firstName": "First Name",
+      "lastName": "last Name",
+      "gender": "Gender (Optional)",
+      "email": "E-mail",
+      "createProfileButton": "Create Profile",
+      "alreadyHaveAnAccount": "Already have an account?",
+      "signin": "Sign In",
+      "country": "Country",
+      "selectCountry": "Select a country",
+      "city": "City",
+      "selectCity": "Select a city",
+      "pleaseSelectCountry": "Please select a country",
+      "pleaseSelectCity": "Please select a city"
+    },
+    "twoStepWithOTP": {
+      "login": "Log In",
+      "enterTheOpt": "Enter the OTP sent on your e-mail",
+      "verify": "Verify",
+      "otpRequire": "OTP is required"
+    },
+    "twoStepWithSecurityQue": {
+      "login": "Log In",
+      "pleaseProvideText": "Please provide an answer for your security question",
+      "submit": "Submit",
+      "required": "Required"
+    },
+    "home": {
+      "newsfeed": "Newsfeed",
+      "home": "Home",
+      "noNewsfeed": "No Newsfeed Found",
+      "save": "Save",
+      "saved": "Saved",
+      "like": "Like",
+      "liked": "Liked",
+      "readMore": "Read More"
+    },
+    "description": {
+      "description": "Description",
+      "posted": "posted"
+    },
+    "jobs": {
+      "projects": "Projects",
+      "workInProgress": "Work in progress",
+      "past": "Past",
+      "options": "Options",
+      "viewProposals": "View proposals",
+      "viewJobPosting": "View job posting",
+      "removePosting": "Remove posting",
+      "editPosting": "Edit posting",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "proposals": "Proposals",
+      "messages": "Messages",
+      "hired": "Hired",
+      "posted": "Posted",
+      "budget": "Budget",
+      "nojobs": "You don't have any jobs at the moment",
+      "postProjectNow": "Post Project Now",
+      "viewShortlistedProposals": "View Shortlisted Proposals",
+      "draft": "Draft",
+      "inviteFreelancer": "Invite Freelancer",
+      "invitation": "Invitation",
+      "noMatchFound": "No Matching Jobs Found",
+      "noDraftFound": "No Draft Found"
+    },
+    "freelancerCard": {
+      "jobSuccess": "Job Success",
+      "topRated": "Top Rated",
+      "message": "Message",
+      "inviteToJob": "Invite to Job",
+      "toContact": "To Contact",
+      "contact": "Contact",
+      "invited": "Invited",
+      "risingTalent": "Rising Talent",
+      "noRatings": "No Ratings Yet",
+      "specialiesIn": "Specialies in"
+    },
+    "search": {
+      "browse": "Browse",
+      "categories": "Categories",
+      "freelancer": "Freelancer",
+      "noFreelancer": "No Freelancers at the moment.",
+      "noMatchFound": "No Match Found.",
+      "noCategories": "No Categories at the moment."
+    },
+    "categories": {
+      "projects": "Projects",
+      "freelancer": "Freelancer",
+      "browse": "Browse",
+      "noFreelancer": "No freelancers found in this category.",
+      "noMatchFound": "No Match Found.",
+      "noProject": "No jobs in this category."
+    },
+    "viewProfile": {
+      "viewProfile": "View Profile",
+      "about": "About",
+      "reviews": "Reviews",
+      "portfolio": "Portfolio",
+      "skills": "Skills",
+      "exams": "Exams",
+      "invite": "Invite",
+      "toJob": "to Job",
+      "seeAll": "See All",
+      "readMore": "Read More",
+      "readless": "Read Less",
+      "educations": "Educations",
+      "employments": "Employments",
+      "present": "present"
+    },
+    "portfolio": {
+      "portfolio": "Portfolio"
+    },
+    "portfolioDetails": {
+      "portfolio": "Portfolio"
+    },
+    "inviteToJob": {
+      "inviteToJob": "Invite to Job",
+      "message": "Message",
+      "chooseAJob": "Choose a Job",
+      "selectAJob": "Select a Job",
+      "sendInvitation": "Send Invitation",
+      "notConnect": "Not connected to chat server"
+    },
+    "showjobs": {
+      "searchJobs": "Search Jobs",
+      "searchForJobs": "Search for jobs"
+    },
+    "proposals": {
+      "proposals": "Proposals",
+      "noProposals": "No Proposals",
+      "jobSuccess": "Job Success",
+      "topRated": "Top Rated",
+      "message": "Message",
+      "award": "Award",
+      "shortlist": "Shortlist",
+      "shortlisted": "Shortlisted",
+      "viewContract": "View Contract"
+    },
+    "proposalDetails": {
+      "proposalDetails": "Proposal Details",
+      "noData": "No data found",
+      "timeline": "Timeline",
+      "price": "Price",
+      "milestonePayments": "Milestone Payments",
+      "noAttachment": "No Attachment Found",
+      "attachment": "Attachment",
+      "freelancer": "Freelancer",
+      "days": "days"
+    },
+    "terms": {
+      "terms": "Terms",
+      "paymentOption": "Payment Option",
+      "payAsText": "Pay as project milestones are completed",
+      "fixedPriceText": "Pay a fixed price for your project",
+      "thisIsThePriceText": "This is the price you and client have agreed upon",
+      "milestones": "Milestones",
+      "description": "Description",
+      "dueDate": "Due Date",
+      "selectDate": "Select Date",
+      "amount": "Amount",
+      "workDescription": "Work Description",
+      "contractTitle": "Contract Title",
+      "workDetails": "Work Details",
+      "addAttachment": "Add attachment",
+      "optional": "(Optional)",
+      "hire": "Hire",
+      "takePhoto": "Take photo",
+      "fromGallery": "From gallery",
+      "otherFile": "Other file",
+      "cancel": "Cancel",
+      "terms1": "Yes, I understand and agree to the",
+      "terms2": "Qaff Terms of Service",
+      "terms3": ", including the",
+      "terms4": "User Agreement",
+      "terms5": "and",
+      "terms6": "Privacy Policy",
+      "intro1": "You’re protected",
+      "intro2": "Qaff Payment Protection",
+      "intro3": ". Pay only for the work you authorize.",
+      "addAttachmentOption": "Add attachment",
+      "proposalDetails": "Proposal Details",
+      "name": "Name",
+      "milestone": "Milestone",
+      "required": "Required.",
+      "dipositText1": "Deposit Funds into Escrow",
+      "dipositText2": "Escrow is a neutral holding place that protects your deposit",
+      "dipositText3": "untill your work is approved",
+      "diposit": "Deposit",
+      "forWholeProject": "for the whole project",
+      "forFirstMilestone": "for the first milestone",
+      "amountInEscrow": "amount in escrow"
+    },
+    "payment": {
+      "payment": "Payment",
+      "choosePaymentMethod": "Choose Payment Method",
+      "accept": "Accept",
+      "noSavedCard": "You have no saved cards at the moment",
+      "addCard": "Add Card",
+      "expiry": "Expiry",
+      "pay": "Pay"
+    },
+    "paymentMethod": {
+      "payment": "Payment",
+      "choosePaymentMethod": "Choose Payment Method"
+    },
+    "paymentDetails": {
+      "paymentDetails": "Payment Details",
+      "cardType": "Card Type",
+      "name": "Name",
+      "nameRequired": "Name field is required.",
+      "cardNumber": "Card Number",
+      "cardNoRequired": "Card Number field is required.",
+      "expDate": "Exp. Date",
+      "dateRequired": "Date field is required.",
+      "cvv": "CVV",
+      "cvvRequired": "CVV field is required.",
+      "saveCard": "Save Card"
+    },
+    "paymentSavedCard": {
+      "savedCards": "Saved Card",
+      "expiry": "Expiry:",
+      "choosePaymentMethod": "Choose Payment Method",
+      "addCard": "Add Card",
+      "noCards": "You have no saved cards at the moment",
+      "next": "Next",
+      "pleaseAdd": "Please add a card!"
+    },
+    "sentOffer": {
+      "sent": "Sent",
+      "offerSentTo": "Offer Sent to",
+      "weNotifyText": " We'll notify you when",
+      "respondText": "responds to your offer."
+    },
+    "projectAdd": {
+      "postAProject": "Post a Project",
+      "jobTitleQue": "What do you need to be done?",
+      "jobTitle": "(Job Title)",
+      "describeHere": "Describe here",
+      "selectJobCategory": "Select Job Category",
+      "jobSubcategory": "Job Subcategory",
+      "budget": "Budget",
+      "timeline": "Timeline",
+      "milestonePayments": "Milestone Payments",
+      "description": "Describe what you need to be done in a few sentences",
+      "maxLimit": "(Max Limit: 300)",
+      "describeHereDescription": "Describe here...",
+      "addAttachment": "Add attachment",
+      "optional": "(Optional)",
+      "takePhoto": "Take photo",
+      "fromGallery": "From gallery",
+      "otherFile": "Other file",
+      "cancel": "Cancel",
+      "postAProjectButton": "Post a Project",
+      "addAttachmentOption": "Add attachment",
+      "skillQue": "What skill set is needed for this project?",
+      "pleaseSelectSkills": "Please select skills",
+      "sar": "SAR",
+      "only": "Only",
+      "filesAllowed": "files allowed"
+    },
+    "jobType": {
+      "postAProject": "Post a Project",
+      "selectJobCategory": "Select Sub Category",
+      "next": "Next",
+      "pleaseSelect": "Please select an option"
+    },
+    "jobTitle": {
+      "postAProject": "Post a Project",
+      "selectJobCategory": "Select Job Category"
+    },
+    "budget": {
+      "postAProject": "Post a Project",
+      "whatBudgetQue": "What budget do you have in mind?",
+      "next": "Next",
+      "pleaseSelect": "Please select an option"
+    },
+    "timeline": {
+      "postAProject": "Post a Project",
+      "timeline": "Timeline",
+      "next": "Next",
+      "pleaseSelect": "Please select an option"
+    },
+    "milestonePayments": {
+      "postAProject": "Post a Project",
+      "milestonePayments": "Milestone Payments",
+      "next": "Next",
+      "pleaseSelect": "Please select an option"
+    },
+    "addSkills": {
+      "selectSkills": "Select Skills",
+      "searchSkill": "Search for Skills",
+      "noMatching": "No matching skills found",
+      "maxSkills": "Maximum 10 skills allowed",
+      "minSkills": "Please select atleast 3 skills",
+      "next": "Next",
+      "alreadyAdded": "Skills already added"
+    },
+    "projectEdit": {
+      "editProject": "Edit Project",
+      "jobTitleQue": "What do you need to be done?",
+      "jobTitle": "(Job Title)",
+      "describeHere": "Describe here",
+      "selectJobCategory": "Select Job Category",
+      "jobSubcategory": "Job Subcategory",
+      "budget": "Budget",
+      "timeline": "Timeline",
+      "milestonePayments": "Milestone Payments",
+      "description": "Describe what you need to be done in a few sentences",
+      "maxLimit": "(Max Limit: 300)",
+      "describeHereDescription": "Describe here...",
+      "addAttachment": "Add attachment",
+      "optional": "(Optional)",
+      "takePhoto": "Take photo",
+      "fromGallery": "From gallery",
+      "otherFile": "Other file",
+      "cancel": "Cancel",
+      "editProjectButton": "Edit Project",
+      "addAttachmentOption": "Add attachment",
+      "skillQue": "What skill set is needed for this project?",
+      "pleaseSelectSkills": "Please select skills",
+      "sar": "SAR",
+      "only": "Only",
+      "filesAllowed": "files allowed"
+    },
+    "projectDetails": {
+      "projectDetails": "Project Details",
+      "category": "Category",
+      "subCategory": "Sub Category",
+      "timeline": "Timeline",
+      "milestonePayments": "Milestone Payments",
+      "projectId": "Project ID",
+      "attachment": "Attachment",
+      "noAttachment": "No Attachment Found",
+      "skillsRequired": "Skills Required"
+    },
+    "profile": {
+      "myProfile": "My Profile",
+      "myQaff": "My Qaff",
+      "personalProfile": "Personal Profile",
+      "saved": "Saved",
+      "myInterests": "My Interests",
+      "chatToCustomerService": "Chat to Customer Service",
+      "takeThePoll": "Take the Poll",
+      "projects": "Projects",
+      "manageProjects": "Manage Projects",
+      "fileADispute": "File a Dispute",
+      "myDispute": "My Dispute",
+      "general": "General",
+      "onlineStatus": "Online Status",
+      "payments": "Payments",
+      "becomeAFreelancer": "Become a Freelancer",
+      "inviteFriends": "Invite Friends",
+      "settings": "Settings",
+      "logout": "Logout",
+      "changeLanguage": "Change Language",
+      "logoutQue": "Are you sure you want to Logout ?",
+      "cancel": "Cancel",
+      "ok": "OK",
+      "english": "English",
+      "arabic": "Arabic",
+      "loggingOut": "Logging out..."
+    },
+    "personalProfile": {
+      "editProfile": "Edit Profile",
+      "general": "General",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "contacts": "Contacts",
+      "email": "E-mail",
+      "other": "Other",
+      "gender": "Gender",
+      "location": "Location",
+      "birthday": "Birthday",
+      "edit": "Edit",
+      "save": "Save",
+      "chooseOption": "Choose Option",
+      "takePhoto": "Take photo",
+      "fromGallery": "From gallery",
+      "cancel": "Cancel",
+      "mobile": "Mobile number",
+      "notSet": "Not set",
+      "male": "Male",
+      "female": "Female"
+    },
+    "editProfile": {
+      "editProfile": "Edit Profile",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "selectBirthday": "Select Birthday",
+      "next": "Next",
+      "enter": "Enter"
+    },
+    "saved": {
+      "saved": "Saved",
+      "noData": "You don't have any saved projects at the moment."
+    },
+    "myInterests": {
+      "myInterests": "My Interests",
+      "noData": "You don't have any liked projects at the moment."
+    },
+    "polls": {
+      "polls": "Polls",
+      "skip": "Skip",
+      "submitQuestion": "Submit Question",
+      "noData": "No Polls Data Found",
+      "thankYou": "Thank you for answers!",
+      "pleaseChooseText": "Please choose atleast one option"
+    },
+    "fileDispute": {
+      "myContracts": "My Contracts",
+      "noData": "No data found",
+      "dispute": "Dispute",
+      "enterDisputeAmount": " Enter dispute amount",
+      "describeAbout": "Describe about your issue",
+      "describeHere": "Describe here...",
+      "fileADispute": "File a Dispute",
+      "refundRequested": "Refund requested",
+      "milestones": "Milestones",
+      "fullAmount": "Full amount of project paid",
+      "refundAmount": "Refund Amount",
+      "noteFreelancer": "Note to Freelancer",
+      "noteSelf": "Note to Self",
+      "selectMilestone": "Please select milestone or full amount of project"
+    },
+    "myDispute": {
+      "myDispute": "My Dispute",
+      "noData": "No data found",
+      "dispute": "Dispute",
+      "contract": "Contract",
+      "contractTitle": "Contract Title",
+      "freelancer": "Freelancer",
+      "disputeAmount": "Dispute amount"
+    },
+    "header": {
+      "search": "Search"
+    },
+    "notification": {
+      "notification": "Notification",
+      "earlier": "Earlier",
+      "latest": "The latest",
+      "noData": "You have no notifications at the",
+      "moment": "moment"
+    },
+    "freelancer": {
+      "freelancer": "Freelancers",
+      "noFreelancer": "No Freelancer Found"
+    },
+    "messages": {
+      "messages": "Messages",
+      "contacts": "Contacts",
+      "inbox": "Inbox",
+      "noContact": "No Contacts Found",
+      "noInbox": "No Inbox Found"
+    },
+    "settings": {
+      "passwordAndSecurity": "Password And Security",
+      "paymentSettings": "Payment Settings",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms Of Service",
+      "aboutUs": "About Us",
+      "howItWorks": "How it Works",
+      "copyright": "Copyright",
+      "codeOfConduct": "Code of Conduct",
+      "feesAndCharges": "Fees And Charges",
+      "legal": "Legal",
+      "settings": "Settings"
+    },
+    "passwordAndSecurity": {
+      "passwordAndSecurity": "Password & Security",
+      "password": "Password",
+      "passwordHasBeenSet": "Password has been set",
+      "chooseStrongPass": "Choose a strong, unique password that’s at least 8 characters long",
+      "twoStep": "Two-step verification",
+      "helpProjectText": "Help project your account by enabling extra layers of security.",
+      "textMessage": "Text message verification",
+      "receiveText": "Receive a four digit code by text message to enter along with your password.",
+      "enable": "Enable",
+      "disable": "Disable",
+      "securityQue": "Security question",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "confirmText": "Confirm your identity with a question only you know answer to."
+    },
+    "securityQue": {
+      "securityQue": "Security Question",
+      "selectQue": "Select Question",
+      "answer": "Answer",
+      "iUnderstand": "I understand my account will be locked if I am unable to answer this question.",
+      "disable": "Disable",
+      "save": "Save",
+      "pleaseSelectQue": "Please select a question first",
+      "provideAns": "Please provide an answer",
+      "acceptTerms": "Please accept terms"
+    },
+    "selectQue": {
+      "securityQue": "Security Question",
+      "selectQue": "Select question"
+    },
+    "updatePassword": {
+      "updatePassword": "Update Password",
+      "enterCurrent": "Enter Current Password",
+      "enterNew": "Enter New Password",
+      "passwordNote": "Password must be 8 characters, should include at least one uppercase letter, one lowercase letter, one number and one special character:",
+      "confirmPassword": "Confirm Password",
+      "mismatchPassword": "Password did'nt match",
+      "pleaseEnterCurrentPass": "Please enter current password",
+      "passUperLower": "Your password must contain at least one uppercase and lowercase letter",
+      "passSpecial": "Your password must contain at least one special characters",
+      "passNumber": "Your password must contain at least one number",
+      "passwordinvailid": "Password must be minimum 8 characters"
+    },
+    "profilePayment": {
+      "payment": "Payment",
+      "choosePaymentMethod": "Choose Payment Method",
+      "noSavedCard": "You have no saved cards at the moment"
+    },
+    "profilePaymentMethod": {
+      "payment": "Payment",
+      "choosePaymentMethod": "Choose Payment Method"
+    },
+    "profilePaymentDetails": {
+      "paymentDetails": "Payment Details",
+      "cardType": "Card Type",
+      "name": "Name",
+      "nameRequired": "Name field is required.",
+      "cardNumber": "Card Number",
+      "cardNoRequired": "Card Number field is required.",
+      "expDate": "Exp. Date",
+      "dateRequired": "Date field is required.",
+      "cvv": "CVV",
+      "cvvRequired": "CVV field is required.",
+      "saveCard": "Save Card"
+    },
+    "changeEmail": {
+      "editProfile": "Edit Profile",
+      "updateYour": "Update Your",
+      "emailAddress": "Email Address",
+      "mobileNo": "Mobile Number",
+      "email": "E-mail",
+      "emailRequired": "Email is required.",
+      "invailidEmail": "Enter vailid e-mail.",
+      "mobileRequired": "Mobile Number field is required.",
+      "invailidMobile": "Enter vailid mobile number.",
+      "next": "Next"
+    },
+    "changeEmailOTP": {
+      "editProfile": "Edit Profile",
+      "updateYour": "Update Your",
+      "emailAddress": "Email Address",
+      "mobileNo": "Mobile Number",
+      "email": "E-mail",
+      "verify": "Verify",
+      "required": "Required.",
+      "enterOTP": "Enter the OTP senton your"
+    },
+    "location": {
+      "editProfile": "Edit Profile",
+      "country": "Country",
+      "selectCountry": "Select a country",
+      "city": "City",
+      "selectCity": "Select a city",
+      "updateProfile": "Update Profile",
+      "validation": "'Please fill all the details'"
+    },
+    "hiredTopTab": {
+      "hired": "Hired",
+      "offers": "Offers",
+      "rejected": "Rejected",
+      "expired": "Expired"
+    },
+    "offersTab": {
+      "noData": "No data found"
+    },
+    "hiredTab": {
+      "noData": "No data found"
+    },
+    "rejectedTab": {
+      "noData": "No data found"
+    },
+    "expiredTab": {
+      "noData": "No data found"
+    },
+    "invitationTopTab": {
+      "invitation": "Invitation",
+      "pending": "Pending",
+      "accepted": "Accepted",
+      "rejected": "Rejected",
+      "expired": "Expired"
+    },
+    "pendingInvitation": {
+      "noData": "No data found"
+    },
+    "acceptedInvitation": {
+      "noData": "No data found"
+    },
+    "rejectedInvitation": {
+      "noData": "No data found"
+    },
+    "expiredInvitation": {
+      "noData": "No data found"
+    },
+    "contractDetails": {
+      "contractDetails": "Contract Details",
+      "rateFreelancer": "Rate Freelancer",
+      "viewProposal": "View Proposal",
+      "milestoneEarnings": "Milestones and Earnings",
+      "budget": "Budget",
+      "inEscrow": "In Escrow",
+      "milestonePaid": "Milestone Paid",
+      "remaining": "Remaining",
+      "amount": "Amount",
+      "remainingMilestones": "Remaining Milestones",
+      "addAmountInEscrow": "Add amount in Escrow",
+      "payNow": "Pay Now",
+      "viewDetails": "View Details",
+      "pending": "Pending",
+      "paymentInRequest": "Payment in Request",
+      "paymentCompleted": "Payment Completed",
+      "milestoneCompleted": "Milestone Completed",
+      "activeSince": "Active Since"
+    },
+    "escrow": {
+      "escrow": "Escrow",
+      "alreadyPaid": "Already Paid",
+      "selecteMilestone": "Select Milestone for Payment",
+      "proceedToPayment": "Proceed to Payment",
+      "pleaseSelectMilestone": "Please select milestone for payment."
+    },
+    "milestone": {
+      "milestone": "Milestone",
+      "description": "Description",
+      "message": "Message",
+      "attachments": "Attachments",
+      "payment": "Payment",
+      "status": "Status",
+      "amountInEscrow": "Amount in Escrow",
+      "pay": "Pay"
+    },
+    "ratings": {
+      "ratings": "Ratings",
+      "contract": "Contract",
+      "rateTheFreelancer": "Rate the Freelancer",
+      "avaliability": "Avaliability",
+      "communication": "Communication",
+      "cooperation": "Cooperation",
+      "professionalism": "Professionalism",
+      "howLikely": "How likely are you going to work again",
+      "deliverOnTime": "Delivered On Time?",
+      "deliverInBudget": "Delivered With In Budget?",
+      "shareExperience": "Share your experience with this freelancer to the Qaff community",
+      "required": "Required.",
+      "rate": "Rate"
+    }
+  }
+}
